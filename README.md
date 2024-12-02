@@ -1,2 +1,2 @@
 # YouTube_clone_finalProject
-A clone of youtube with backend frontend funtialities 
+A clone of youtube with backend frontend funcation 
